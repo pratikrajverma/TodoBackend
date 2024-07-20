@@ -23,3 +23,8 @@ app.listen(PORT, () => {
 
 // database connection
 dbConnect();
+ 
+
+
+// git remote add origin <repository-url>
+// git push -u origin master
